@@ -1,0 +1,31 @@
+.header{
+    width: 100vw;
+    height: 250px;
+    background-image: url(../img/guitarras_header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+.menu{
+    width: 60%;
+    height: 50px;
+    background-color: white;
+    border-radius: 16px;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
